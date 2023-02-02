@@ -1,2 +1,3 @@
-# project1
-Project 1 Repo
+# Tourism: Attractions and Airports
+
+An analysis of how nearby attractions and airports may impact incoming bookings to each property. 
